@@ -75,6 +75,11 @@ padding-left: 100px;
 width: 370px;
 }
 
+.items-section{
+  flex-direction: column;
+  width: 100%;
+}
+
 
 
 

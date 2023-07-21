@@ -36,8 +36,30 @@ padding-left: 100px;
   border-radius: 5px;
 }
   
+/* bannar reletd style */
+
+.bannar-containar {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} 
+.bannar-img img{
+  max-width: 100%; 
+}
+.bannar-tool{
+ width: 60px;
+ padding-left: 70px;
+}
+.bannar-title h1{
+  max-width: 100%;
+  font-weight: 200px;
+}
 
 
+
+
+
+
+}
 
   
-}

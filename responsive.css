@@ -1,5 +1,5 @@
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:676px) {
 
 /* nav releted style */
 
@@ -62,6 +62,12 @@ padding-left: 100px;
   flex-direction: column;
 }
 
+/* client releted */
+
+.clienst-section{
+max-width: 100%;
+}
+
 
 /* hot deal releted  */
 
@@ -80,6 +86,26 @@ width: 370px;
   width: 100%;
 }
 
+/* footer releted style */
+
+
+
+
+.footer-logo{
+ flex-direction: column;
+ margin-bottom: 0px;
+}
+
+.footer-last{
+
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.name{
+  width: 80%;
+}
 
 
 

@@ -1,0 +1,41 @@
+
+@media screen and (max-width:576px) {
+
+.nav-containar{
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-logo img{
+  width: 100%;
+}
+
+.nav-menus a{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.log{
+  padding-right: 100px;
+padding-left: 100px;
+}
+
+.nav-menus a:hover{
+  transform: scale(1.2);
+  transition: 1.8s;
+  border: 1px solid red;
+  padding: 5px 10px;
+  background-color: aqua;
+  border-radius: 5px;
+}
+  
+
+
+
+  
+}

@@ -55,6 +55,11 @@ padding-left: 100px;
   font-weight: 200px;
 }
 
+/* card releted responsive */
+
+.card-containar{
+  flex-direction: column;
+}
 
 
 

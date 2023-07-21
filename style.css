@@ -104,3 +104,56 @@ font-weight: 700;
   font-weight: 600;
   line-height: normal;
 }
+
+/* card reletde steyle */
+
+.main h1{
+color: var(--dark-01, #1C1C1C);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Manrope;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.main h3 {
+  width: 100%;
+  color: var(--dark-03, #777);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px; 
+  margin-bottom: 50px;
+
+}
+
+
+
+.card-containar{
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  text-align: center;
+  gap:24px;
+}
+.card-containar h1{
+  color: var(--dark-01, #1C1C1C);
+text-align: center;
+font-size: 25px;
+font-weight: 800;
+
+
+  
+}
+.card-containar p{
+  width: 208px;
+  color: var(--dark-03, #777);
+text-align: center;
+font-size: 16px;
+font-weight: 600;
+margin:0 ;
+
+  
+}
